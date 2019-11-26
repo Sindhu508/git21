@@ -1,0 +1,11 @@
+public class Names{
+ 
+ public static void main(String[] args) {
+  System.out.println("Hello\ Sindhu");
+System.out.println("Hello\ Nagendra);
+System.out.println("Hello\ Priya);
+
+
+ }
+ 
+}

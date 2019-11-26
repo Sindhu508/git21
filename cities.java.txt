@@ -1,0 +1,11 @@
+public class Names{
+ 
+ public static void main(String[] args) {
+  System.out.println("Banglore");
+System.out.println("Kadapa");
+System.out.println("Chennai");
+
+
+ }
+ 
+}
